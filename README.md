@@ -21,8 +21,8 @@ Le projet permet de :
 /projet-dashboard-notes
 │
 ├─ activité8.html
-└─ README.md
-
+├─ rapport_mini_projet_activité8.pdf
+├─analyse et visualisation des notes des etudiants.pdf
 ## 🚀 Comment exécuter ?
 
 1. Télécharger ou cloner le projet :
