@@ -23,6 +23,8 @@ Le projet permet de :
 ├─ activité8.html
 ├─ rapport_mini_projet_activité8.pdf
 ├─analyse et visualisation des notes des etudiants.pdf
+├─README
+
 ## 🚀 Comment exécuter ?
 
 1. Télécharger ou cloner le projet :
